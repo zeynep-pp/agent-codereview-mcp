@@ -11,6 +11,11 @@ This project demonstrates how to build AI agents that integrate with external se
 - **Interactive CLI**: Rich terminal interface with clickable links and real-time streaming
 - **MCP Integration**: Connects to Firecrawl and React Code Review MCP servers for extended capabilities
 
+## Links
+
+- **Frontend**: https://react-code-review-mcp-main.vercel.app/
+- **Repository**: https://github.com/zeynep-pp/react-code-review-mcp-main
+
 ## Required API Keys
 
 To run this project, you'll need:
